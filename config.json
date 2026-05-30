@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercender",
+        "uuid": 1048676,
+        "checksum": "7pib39"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
